@@ -1,0 +1,127 @@
+{
+  "status": "ok",
+  "ads": [
+    {
+      "link": "https://tr.pubnative.net/click/rtb?aid=1008118&t=HtX0zHq_wKFO9OBPBbsznaIy4XTmaSsmDrJ_EzVl2dwzXTTWZkHNujt-VZxbVHsMfaSY_k8kNdzbGjclqMI1GWcuHcO3iIBgemactScSZ5P0pCWPgjWeB6IGnL_gFcVDzASwi_rbgZR4WUQtoCWqAvyEpbCqdT_2GHykq_M3toQ-YzDxb1Yby7F5wIJfcxxACTKWSMC7MnOYVqvK15hTH1WR1LDlNkUSQUIYFwNMtSW_swefiUIufVDALClZi9Lpm23L99s0tXmNlPe4xHEDDXoBeiXuhWN9VUv3vtRlcPyjOiVVbOlqOGPh85Ci28CzZ0nPo2ayWfXd_c50FcsM-NB0MYrK7449U_5Vy4sVULN-9ldCQeHnMJZfgupNGXYSiGfm2S_RFTJ6FNKE0wQspJa6acIpUAh6nvL8_8p0NocmMmg46O1UZhICkQY6uno4am_HeCGXhKaj8rh5_YVAbIPe2hbIHEbg-i2dyL5Z9ViiNP1jbQHe6Ts8zoT0tUZtpnI_NLjfW12hEXriPv-KZhDT7GkRp7KAZ89KKiP2FhJOyvpcdJC36gV4MqBmeXO4GQR7CEvbMnffXCbN-ct6qz06dRtql5c7HICXs-TqNBIse99EyCR4KTGAwiDEFLybS24PzswDO6e04mSczBWkPSFVu90DJ4qZ7WtV-dovmj0gifbklgeW8u_Z",
+      "assetgroupid": 5,
+      "assets": [
+        {
+          "type": "icon",
+          "data": {
+            "w": 80,
+            "h": 80,
+            "url": "http://cdn.pubnative.net/assets/mock_icon.jpg"
+          }
+        },
+        {
+          "type": "banner",
+          "data": {
+            "w": 1200,
+            "h": 627,
+            "url": "http://cdn.pubnative.net/assets/mock_main_image.jpg"
+          }
+        },
+        {
+          "type": "title",
+          "data": {
+            "text": "PubNative Content Info"
+          }
+        },
+        {
+          "type": "description",
+          "data": {
+            "text": "All you wanted to know about mobile native advertising"
+          }
+        },
+        {
+          "type": "rating",
+          "data": {
+            "number": 5
+          }
+        },
+        {
+          "type": "cta",
+          "data": {
+            "text": "Learn More"
+          }
+        }
+      ],
+      "meta": [
+        {
+          "type": "points",
+          "data": {
+            "number": 9
+          }
+        },
+        {
+          "type": "revenuemodel",
+          "data": {
+            "text": "cpm"
+          }
+        },
+        {
+          "type": "campaignid",
+          "data": {
+            "text": "campaign2"
+          }
+        },
+        {
+          "type": "creativeid",
+          "data": {
+            "text": "creative2"
+          }
+        }
+      ],
+      "beacons": [
+        {
+          "type": "impression",
+          "data": {
+            "url": "http://mockdsp.cluster.pubnative.net/tracker/nurl?app_id=1008118"
+          }
+        },
+        {
+          "type": "impression",
+          "data": {
+            "url": "http://mockdsp.cluster.pubnative.net/tracker/imp?app_id=1008118&beacon=1"
+          }
+        },
+        {
+          "type": "impression",
+          "data": {
+            "url": "http://mockdsp.cluster.pubnative.net/tracker/imp?app_id=1008118&beacon=2"
+          }
+        },
+        {
+          "type": "impression",
+          "data": {
+            "url": "http://mockdsp.cluster.pubnative.net/tracker/iurl?app_id=1008118"
+          }
+        },
+        {
+          "type": "impression",
+          "data": {
+            "url": "https://tr.pubnative.net/impression?aid=1008118&t=_KuBoGBiIvQy1KOqjxT1B3l6SK2MUubdquSt53Nem_gM30rOEYEk6HCCm3ky_m6j_Ne-KY22xRZgCGUWwfFc5XXrbU5wjwXgtuascKU4p77kMG2DTyU98YXIbGhu5fcVazq2Ke9nYyR5RH4NuXg_sv5AtPggQis5dkU3vM5-TrhM980m-UjfSlSVIPXYxD86ORWj1nr1SAFNJMOhj2M6jt9VfkY3o53iFLbI8Tf7AjgPPkwldJhABMWHZNeu0Xu76vvMvfgyqZ2SkLGqHa26HT8DF7ChpQyr_8StrYbQ0k2Z54Wg-1Sous-Z0S4qcgwqKomXf-dBR3VpT6LqMFJW8JaDI0_L1ylpDwpFfI-F1prhmsHQTZyp3XATeUYQUWIZtrm0nbzypnC7YI46C907qKcPE3UtmxmhS60JxKz6QdQ6SFTfrQnV7-aMW5l71aXMj9eeahzn2DmTwjKxgMTLeYK3hAUTCnoeagUU1z7568Hy8V4MLpk2AGNnu7E3LuOF1_80QkHtElU8qPhxCt0QTgeUy6atI4OyhbYqVH8PYvDKtNqZiUCELI_vVqlYQQ07N_vJKjN07TVOygYNlbUZQEIFV9WwGnh2DO1GKQXbROvCvWm-IT0sDJDV-QkXJeEnv1WMh4s7JuVmQgxM2nCp3A06fRYE9NCg49qEVRIjeaJrZgmLpvvRGi0jB_VGytJrY2Udt5jEaTvmjR8qb2ttjzO0QV_FYBtg_anun3TMo54cvAF_&tl=752"
+          }
+        },
+        {
+          "type": "impression",
+          "data": {
+            "js": "(function(){var u=[\"http://tr.pubnative.net/impression?aid=1008118&t=eFAQp_mSAJIMWCkUam2f5vg-29vGushsAwIIs-BFe-jXY1aUxYs4OdKlJbMUfBH8BObg5IGoHsmmPO3yJKAzTFzHL1rgVtlHVFgFSsvmP1baGpEZekMhBPw5_s-mo4Wulm3xoQCiUTQgDNiSTTOFOejKqyB4uPkU2S6W_CDqiBVxAzAUTKhPvsWLuGHbAL1AFB-ydA_1AlQO52GuwKYOjtIUXHliCXr1q36dtM54PVkvmXyoG79Q4dQdrjB1VhV6oSReT_b1T55J1R03_snMfHS904nYXJClgGnw5XiwP5w0EcCU_bLpdFx1_QyHcvDqHIklIzRY7BiOgOlDnbswFVbN3imThJIsSvIPfzlZO2H3Pb9aUpok4_U1OGPX79ZYq_s9T9nMFY_WEOX4GnjoIJUHT04&tl=411\"];var s=document.createElement(\"span\");s.style.display=\"none\";for(var n=0;n<u.length;n++){var i=document.createElement(\"img\");i.src=u[n];s.appendChild(i);}var b=document.getElementsByTagName(\"body\")[0];b.appendChild(s);})()"
+          }
+        },
+        {
+          "type": "click",
+          "data": {
+            "url": "http://mockdsp.cluster.pubnative.net/tracker/clk?app_id=1008118&beacon=1"
+          }
+        },
+        {
+          "type": "click",
+          "data": {
+            "url": "http://mockdsp.cluster.pubnative.net/tracker/clk?app_id=1008118&beacon=2"
+          }
+        }
+      ]
+    }
+  ]
+}

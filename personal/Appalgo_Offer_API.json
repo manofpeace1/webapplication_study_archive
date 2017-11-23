@@ -1,0 +1,574 @@
+[
+  {
+    "_id": "59db5b6af3679ff2670b8b5f",
+    "i_id": 1823730242,
+    "dtu_creation": "2017-10-09 11:20:09",
+    "dtu_last_update": "2017-10-23 12:14:38",
+    "s_name": "ABOUT YOU- NL + BE - Private",
+    "b_budget_strict": true,
+    "b_device_id_strict": false,
+    "b_frequency_caps_active": false,
+    "i_frequency_caps_range_time_h": 1,
+    "i_frequency_caps_range_items_max": 1,
+    "dt_lifetime_init": "",
+    "dt_lifetime_end": "",
+    "d_budget_total_init": "",
+    "d_budget_total_end": "",
+    "e_budget_total_type": "CUSTOM",
+    "i_budget_total_week_init": 1,
+    "i_budget_total_month_init": 1,
+    "s_android_id": "",
+    "s_android_preview_url": "",
+    "s_android_logo_url": "",
+    "s_android_logo_s3_url": "",
+    "s_android_version": "",
+    "s_android_version_min": "",
+    "s_android_size": "",
+    "s_ios_id": "id985244644",
+    "s_ios_geo": "DE",
+    "s_ios_preview_url": "https://itunes.apple.com/de/app/xxx/id985244644",
+    "s_ios_logo_url": "http://is2.mzstatic.com/image/thumb/Purple128/v4/61/32/bd/6132bd39-20cb-be9f-be4e-134d245b843c/source/350x350bb.jpg",
+    "s_ios_logo_s3_url": "https://hd-manticore-upload.s3.amazonaws.com/offer/logo/ios/985244644.jpg",
+    "s_ios_version": "",
+    "s_ios_version_min": "",
+    "s_ios_size": "",
+    "s_other_id": "",
+    "s_other_preview_url": "",
+    "e_media_type": "NON_INCENT",
+    "e_revenue_type": "CPI",
+    "s_revenue_type_description": "",
+    "s_description": "Enjoy this easy to use shopping app with a major variety of brands and the best deals!\n--------------------------------------\n\nCap: 100 daily installs per geo\n\nKPI: \n\nPurchase Rate:\nD1 0.60%\nD7 1%\n\nAdd to wishlist Rate:\nD1 30%\nD7 50%\n\nAdd to basket Rate:\nD1 10%\nD7 15%",
+    "s_offer_url": "http://panel2.appalgo.com/#/platform/operations-affiliate/manage-offers/1823730242",
+    "s_tracking_url": "https://www.algoperformance.com/click?offernid=1823730242&affnid=647642128",
+    "s_base_tracking_url": "https://www.algoperformance.com/click?offernid=1823730242&affnid=647642128",
+    "as_linkid_tracking_urls": [
+
+    ],
+    "as_restriction_labels": [
+      "No Adult",
+      "No Brand Bidding",
+      "No illegal/spam/misleading",
+      "No Invalid / Duplicate Leads",
+      "No Push Traffic",
+      "No Re-brokering",
+      "No Redirect traffic",
+      "No Social",
+      "Non Incent traffic only",
+      "Own Creatives are Not Allowed"
+    ],
+    "as_file_urls": [
+      "[BE] https://hd-manticore-upload.s3.amazonaws.com/file/1274880561/New-folder.rar",
+      "[NL] https://hd-manticore-upload.s3.amazonaws.com/file/1584028733/New-folder.rar"
+    ],
+    "ao_payout_data": [
+      {
+        "as_devices": [
+          "APHONE",
+          "ATABLET"
+        ],
+        "as_country_codes": [
+          "BE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_payout": 1.62
+      }
+    ],
+    "ao_budget_data": [
+      {
+        "i_suboffer_id": 1493616825,
+        "as_devices": [
+          "APHONE",
+          "ATABLET"
+        ],
+        "as_country_codes": [
+          "BE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_budget_total": -1,
+        "f_budget_daily": 49.78
+      }
+    ]
+  },
+  {
+    "_id": "582dd42ef3679f0077820c9b",
+    "i_id": 517659420,
+    "dtu_creation": "2016-11-17 16:00:44",
+    "dtu_last_update": "2017-10-22 08:47:58",
+    "s_name": "ABOUT YOU- Private",
+    "b_budget_strict": true,
+    "b_device_id_strict": false,
+    "b_frequency_caps_active": false,
+    "i_frequency_caps_range_time_h": 24,
+    "i_frequency_caps_range_items_max": 1,
+    "dt_lifetime_init": "2017-06-12 00:00:00",
+    "dt_lifetime_end": "",
+    "d_budget_total_init": "",
+    "d_budget_total_end": "",
+    "e_budget_total_type": "CUSTOM",
+    "i_budget_total_week_init": 1,
+    "i_budget_total_month_init": 1,
+    "s_android_id": "",
+    "s_android_preview_url": "",
+    "s_android_logo_url": "",
+    "s_android_logo_s3_url": "",
+    "s_android_version": "",
+    "s_android_version_min": "",
+    "s_android_size": "",
+    "s_ios_id": "id985244644",
+    "s_ios_geo": "DE",
+    "s_ios_preview_url": "https://itunes.apple.com/de/app/xxx/id985244644",
+    "s_ios_logo_url": "http://is3.mzstatic.com/image/thumb/Purple118/v4/fe/22/81/fe22817e-19d7-e5ee-842f-72ed89d1f6f4/source/350x350bb.jpg",
+    "s_ios_logo_s3_url": "https://hd-manticore-upload.s3.amazonaws.com/offer/logo/ios/985244644.jpg",
+    "s_ios_version": "3.3.3",
+    "s_ios_version_min": "8.0",
+    "s_ios_size": "",
+    "s_other_id": "",
+    "s_other_preview_url": "",
+    "e_media_type": "NON_INCENT",
+    "e_revenue_type": "CPI",
+    "s_revenue_type_description": "",
+    "s_description": "Enjoy this easy to use shopping app with a major variety of brands and the best deals!\n--------------------------------------\n\nCap: 100 daily installs per geo\n\nKPI: \n\nPurchase Rate:\nD1 0.60%\nD7 1%\n\nAdd to wishlist Rate:\nD1 30%\nD7 50%\n\nAdd to basket Rate:\nD1 10%\nD7 15%",
+    "s_offer_url": "http://panel2.appalgo.com/#/platform/operations-affiliate/manage-offers/517659420",
+    "s_tracking_url": "https://www.algoperformance.com/click?offernid=517659420&affnid=647642128",
+    "s_base_tracking_url": "https://www.algoperformance.com/click?offernid=517659420&affnid=647642128",
+    "as_linkid_tracking_urls": [
+
+    ],
+    "as_restriction_labels": [
+      "Non Incent traffic only",
+      "No Adult",
+      "No illegal/spam/misleading",
+      "No Re-brokering",
+      "Own Creatives are Not Allowed",
+      "No Social",
+      "No Brand Bidding",
+      "No Redirect traffic",
+      "No Push Traffic",
+      "No Invalid / Duplicate Leads"
+    ],
+    "as_file_urls": [
+      "[6.9] https://hd-manticore-upload.s3.amazonaws.com/file/140285187/6.9.rar"
+    ],
+    "ao_payout_data": [
+      {
+        "as_devices": [
+          "IPAD",
+          "IPHONE",
+          "IPOD"
+        ],
+        "as_country_codes": [
+          "CH"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_payout": 1.86
+      },
+      {
+        "as_devices": [
+          "IPAD",
+          "IPHONE",
+          "IPOD"
+        ],
+        "as_country_codes": [
+          "DE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_payout": 1.63
+      }
+    ],
+    "ao_budget_data": [
+      {
+        "i_suboffer_id": 1524762696,
+        "as_devices": [
+          "IPAD",
+          "IPHONE",
+          "IPOD"
+        ],
+        "as_country_codes": [
+          "CH"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_budget_total": -1,
+        "f_budget_daily": 249.79
+      },
+      {
+        "i_suboffer_id": 1622563629,
+        "as_devices": [
+          "IPAD",
+          "IPHONE",
+          "IPOD"
+        ],
+        "as_country_codes": [
+          "DE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_budget_total": -1,
+        "f_budget_daily": 246.88
+      }
+    ]
+  },
+  {
+    "_id": "59ba3edbf3679f9e62ed098d",
+    "i_id": 1872973467,
+    "dtu_creation": "2017-09-14 08:33:31",
+    "dtu_last_update": "2017-10-17 07:39:57",
+    "s_name": "AINO- City Targeting - Private",
+    "b_budget_strict": true,
+    "b_device_id_strict": false,
+    "b_frequency_caps_active": false,
+    "i_frequency_caps_range_time_h": 1,
+    "i_frequency_caps_range_items_max": 1,
+    "dt_lifetime_init": "",
+    "dt_lifetime_end": "",
+    "d_budget_total_init": "",
+    "d_budget_total_end": "",
+    "e_budget_total_type": "CUSTOM",
+    "i_budget_total_week_init": 1,
+    "i_budget_total_month_init": 1,
+    "s_android_id": "com.today_in.hh",
+    "s_android_preview_url": "https://play.google.com/store/apps/details?id=com.today_in.hh",
+    "s_android_logo_url": "http://lh3.googleusercontent.com/v_bObxjkvSoXk2FDlQXFhmwnxa3mGBR2F7FfX2Vl1mtok9g4tsLLnIEpc_oT-rwGo87e=w300-rw",
+    "s_android_logo_s3_url": "https://hd-manticore-upload.s3.amazonaws.com/offer/logo/android/com.today_in.hh.png",
+    "s_android_version": "2.1.1",
+    "s_android_version_min": "4.1",
+    "s_android_size": "",
+    "s_ios_id": "id983359442",
+    "s_ios_geo": "US",
+    "s_ios_preview_url": "https://itunes.apple.com/us/app/xxx/id983359442",
+    "s_ios_logo_url": "http://is4.mzstatic.com/image/thumb/Purple118/v4/59/a0/80/59a080cf-5bcd-ffc8-260a-622cc2bd0198/source/350x350bb.jpg",
+    "s_ios_logo_s3_url": "https://hd-manticore-upload.s3.amazonaws.com/offer/logo/ios/983359442.jpg",
+    "s_ios_version": "2.1.3",
+    "s_ios_version_min": "10.0",
+    "s_ios_size": "62.2 MB",
+    "s_other_id": "",
+    "s_other_preview_url": "",
+    "e_media_type": "NON_INCENT",
+    "e_revenue_type": "CPI",
+    "s_revenue_type_description": "",
+    "s_description": "AINO - TODAY IN HAMBURG - The MUST HAVE app for all hamburger & new hamburger with events, deals and leisure tips.\n\n\nCap: 50 daily installs\n\nKPI: 20% RR\n\nCity Targeting:: Hamburg, Germany",
+    "s_offer_url": "http://panel2.appalgo.com/#/platform/operations-affiliate/manage-offers/1872973467",
+    "s_tracking_url": "https://www.algoperformance.com/click?offernid=1872973467&affnid=647642128",
+    "s_base_tracking_url": "https://www.algoperformance.com/click?offernid=1872973467&affnid=647642128",
+    "as_linkid_tracking_urls": [
+
+    ],
+    "as_restriction_labels": [
+      "No Adult",
+      "Non Incent traffic only"
+    ],
+    "as_file_urls": [
+      "[Android] https://hd-manticore-upload.s3.amazonaws.com/file/1919188924/Android.rar",
+      "[iOS ] https://hd-manticore-upload.s3.amazonaws.com/file/150882217/New-folder.rar"
+    ],
+    "ao_payout_data": [
+      {
+        "as_devices": [
+          "APHONE",
+          "ATABLET"
+        ],
+        "as_country_codes": [
+          "DE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+          "Hamburg"
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_payout": 2.17
+      },
+      {
+        "as_devices": [
+          "IPAD",
+          "IPHONE",
+          "IPOD"
+        ],
+        "as_country_codes": [
+          "DE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+          "Hamburg"
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_payout": 2.17
+      }
+    ],
+    "ao_budget_data": [
+      {
+        "i_suboffer_id": 431662062,
+        "as_devices": [
+          "APHONE",
+          "ATABLET"
+        ],
+        "as_country_codes": [
+          "DE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+          "Hamburg"
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_budget_total": -1,
+        "f_budget_daily": 149.85
+      },
+      {
+        "i_suboffer_id": 10972806,
+        "as_devices": [
+          "IPAD",
+          "IPHONE",
+          "IPOD"
+        ],
+        "as_country_codes": [
+          "DE"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+          "Hamburg"
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_budget_total": -1,
+        "f_budget_daily": 26.87
+      }
+    ]
+  },
+  {
+    "_id": "598c089bf3679f693644f50b",
+    "i_id": 1168152325,
+    "dtu_creation": "2017-08-10 07:17:46",
+    "dtu_last_update": "2017-10-17 07:44:23",
+    "s_name": "About Here- Private",
+    "b_budget_strict": true,
+    "b_device_id_strict": false,
+    "b_frequency_caps_active": false,
+    "i_frequency_caps_range_time_h": 24,
+    "i_frequency_caps_range_items_max": 1,
+    "dt_lifetime_init": "2017-08-10 00:00:00",
+    "dt_lifetime_end": "",
+    "d_budget_total_init": "",
+    "d_budget_total_end": "",
+    "e_budget_total_type": "MONTHLY",
+    "i_budget_total_week_init": 1,
+    "i_budget_total_month_init": 1,
+    "s_android_id": "kr.goodchoice.abouthere",
+    "s_android_preview_url": "https://play.google.com/store/apps/details?id=kr.goodchoice.abouthere",
+    "s_android_logo_url": "http://lh3.googleusercontent.com/U8ZOdM5V_NcHvKl9KdY9NiwdqzqBUfokpSm9LsNyk54ueHxn3cpAtkrDm7sXzdwyyg=w300-rw",
+    "s_android_logo_s3_url": "https://hd-manticore-upload.s3.amazonaws.com/offer/logo/android/kr.goodchoice.abouthere.png",
+    "s_android_version": "3.11.2",
+    "s_android_version_min": "4.2",
+    "s_android_size": "",
+    "s_ios_id": "id884043462",
+    "s_ios_geo": "",
+    "s_ios_preview_url": "https://itunes.apple.com/us/app/xxx/id884043462",
+    "s_ios_logo_url": "",
+    "s_ios_logo_s3_url": "",
+    "s_ios_version": "",
+    "s_ios_version_min": " 8.0",
+    "s_ios_size": "",
+    "s_other_id": "",
+    "s_other_preview_url": "",
+    "e_media_type": "NON_INCENT",
+    "e_revenue_type": "CPI",
+    "s_revenue_type_description": "",
+    "s_description": "Well known travel app in Korea!\n---------------------------------------\n\nCap: 50 daily installs\n\nKPI: 30% registration rate",
+    "s_offer_url": "http://panel2.appalgo.com/#/platform/operations-affiliate/manage-offers/1168152325",
+    "s_tracking_url": "https://www.algoperformance.com/click?offernid=1168152325&affnid=647642128",
+    "s_base_tracking_url": "https://www.algoperformance.com/click?offernid=1168152325&affnid=647642128",
+    "as_linkid_tracking_urls": [
+
+    ],
+    "as_restriction_labels": [
+      "Non Incent traffic only",
+      "No Invalid / Duplicate Leads",
+      "No Adult",
+      "No illegal/spam/misleading",
+      "No Re-brokering"
+    ],
+    "as_file_urls": [
+      "[2.10] https://hd-manticore-upload.s3.amazonaws.com/file/97798809/2.10.7z",
+      "[7.9] https://hd-manticore-upload.s3.amazonaws.com/file/1485053039/September.rar"
+    ],
+    "ao_payout_data": [
+      {
+        "as_devices": [
+          "APHONE",
+          "ATABLET",
+          "IPAD",
+          "IPHONE"
+        ],
+        "as_country_codes": [
+          "KR"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_payout": 0.85
+      }
+    ],
+    "ao_budget_data": [
+      {
+        "i_suboffer_id": 1391709150,
+        "as_devices": [
+          "APHONE",
+          "ATABLET",
+          "IPAD",
+          "IPHONE"
+        ],
+        "as_country_codes": [
+          "KR"
+        ],
+        "as_regions": [
+
+        ],
+        "as_cities": [
+
+        ],
+        "as_isps": [
+
+        ],
+        "as_connection_types": [
+
+        ],
+        "as_linkids": [
+
+        ],
+        "f_budget_total": -1,
+        "f_budget_daily": 150
+      }
+    ]
+  }
+]
