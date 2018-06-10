@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  max-width: 1000px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+}
+
+header {
+  padding: 30px;
+}
+
+header, nav, main, aside, footer {
+  border: 1px solid red;
+}
+
+nav, aside {
+  flex-shrink: 0;
+  flex-basis: 150px;
+}
+
+footer, main {
+  padding: 20px;
+}
+
+header, footer {
+  text-align: center;
+}

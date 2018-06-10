@@ -1,0 +1,4 @@
+<option value="red">붉은색</option>
+<option value="black">검은색</option>
+<option value="blue">파란색</option>
+<option value="yellow">노란색</option>

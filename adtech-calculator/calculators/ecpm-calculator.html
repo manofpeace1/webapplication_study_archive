@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+
+<html>
+<form action="">
+    <p>eCPM Calculator</p>
+    <p>Revenue: <input type="number" id="revenue" value="150" lang="en-150"></p>
+    <p>Impression: <input type="number" id="impression" value="1000000" lang="en-150"></p>
+    <p><input type="button" onclick="calculate()" value="Get eCPM"></p>
+    Your eCPM is: <p id="body"></p>
+  <script>
+    function calculate(){
+      var revenue = document.getElementById("revenue").value;
+      var impression = document.getElementById("impression").value;
+      var body = revenue/impression * 1000;
+      document.getElementById("body").innerHTML = "$ "+body;
+    }
+  </script>
+</form>
+</html>

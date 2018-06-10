@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<form action="">
+    <p>적정체중 계산기</p>
+    <p>키(cm): <input type="number" id="height" value="173"></p>
+    <p>몸무게(kg): <input type="number" id="weight" value="72"></p>
+    <p>나이: <input type="number" id="age" value="30"></p>
+    <p><input type="button" onclick="calculate()" value="확인하기"></p>
+    <p id="goodWeight"></p>
+    <p id="obesity"></p>
+    <p id="obesityText"></p>
+  <script>
+    function calculate(){
+      let height = document.getElementById("height").value;
+      let weight = document.getElementById("weight").value;
+      let goodWeight = (height - 100)*0.9;
+      let obesityCalc = (weight / goodWeight)*100;
+      document.getElementById("goodWeight").innerHTML = "당신의 적정체중은 " + goodWeight + "kg 입니다.";
+      document.getElementById("obesity").innerHTML = "비만도는 " + obesityCalc + "% 입니다.";
+      document.getElementById("obesityText").innerHTML = "90% 미만 = 체중부족, 90~100% = 정상, 111~120% = 과체중, 121% 이상 = 비만입니다.";
+    }
+  </script>
+</form>
+</html>
